@@ -1,0 +1,22 @@
+# Android
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+strings.xml
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iota
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outros
+*.log
