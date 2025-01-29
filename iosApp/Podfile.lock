@@ -1,0 +1,16 @@
+PODS:
+  - DailyPulse (1.0.0)
+
+DEPENDENCIES:
+  - DailyPulse (from `../shared`)
+
+EXTERNAL SOURCES:
+  DailyPulse:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  DailyPulse: 17c3ea6eec4fb1b1f7d2228c8ea8033f9904818f
+
+PODFILE CHECKSUM: 6231b700967bd1990d8e4d688ba350620cd81d36
+
+COCOAPODS: 1.16.2
